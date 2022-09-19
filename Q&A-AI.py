@@ -35,7 +35,7 @@ if return1 == 0:
     print('[ID:Y2t5ZjExMzQ=],[Type=Base64]')
     num1=1
 else:
-    print('尝z试连接......') 
+    print('尝试连接......') 
     print('联网失败，天气功能将使用受限')
     num1=2
 if num1 ==1:
